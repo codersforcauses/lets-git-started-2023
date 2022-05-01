@@ -12,7 +12,7 @@ Please ensure that you have git installed  before continuing
 
 Run:
 ```
-git clone https://github.com/nicodeas/git-tute.git
+git clone https://github.com/codersforcauses/lets-git-started.git
 ```
 
 Please nominate one person from your group to do steps 2-5

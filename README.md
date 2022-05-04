@@ -18,10 +18,10 @@ For Windows 11 users, run:
 winget install -e --id Git.Git
 ```
 
-For Mac users please install homebrew and run:
+For Mac users please run:
 
 ```
-brew install git
+xcode-select --install
 ```
 
 For Ubuntu users, run:
@@ -29,6 +29,8 @@ For Ubuntu users, run:
 ```
 sudo apt-get update && sudo apt-get install git
 ```
+
+If you were unable to install with one of the options above, please install through the [git website](https://git-scm.com/downloads)
 
 ## Git Setup
 

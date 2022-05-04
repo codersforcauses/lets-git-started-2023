@@ -53,7 +53,7 @@ git config --global user.email johndoe@example.com
 1. Open Terminal / Power Shell and change directory into where you would like to store project and run:
 
 ```
-git clone https://github.com/nicodeas/git-tute.git
+git clone https://github.com/codersforcauses/lets-git-started.git
 ```
 
 Please nominate one person from your group to do steps 2-5

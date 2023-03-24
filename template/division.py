@@ -1,3 +1,3 @@
-def divide(a,b):
+def divide(a, b):
     """divide a by b"""
     pass

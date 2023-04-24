@@ -118,14 +118,14 @@ For this exercise, there are 4 files that require completion
 
 ```
 
-addition.py
-subtraction.py
-multiplication.py
-division.py
+test_addition.py
+test_subtraction.py
+test_multiplication.py
+test_division.py
 
 ```
 
-Lets start by correcting `addition.py`, modify the code so that it looks like this:
+Lets start by correcting `test_addition.py`, modify the code so that it looks like this:
 
 ```py
 def addition(a,b):
@@ -135,7 +135,7 @@ def addition(a,b):
 After saving your file, it is time to add this to the staging area by running:
 
 ```
-git add addition.py
+git add test_addition.py
 ```
 
 Once you are happy with your changes, it is time to commit! Don't forget to leave meaningful commit messages! Commit your change by running:

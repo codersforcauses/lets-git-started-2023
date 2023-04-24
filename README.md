@@ -102,31 +102,15 @@ pre-commit install
 
 ---
 
-## Checkpoint!
-
-Now that your group has created the branch, we need to update the repositories of other group members by running:
-
-```
-
-git pull
-
-```
-
-Once everyone in your group has updated their repository, please checkout to the branch created by your group
-
-We will be running this command several times to 'pull' in changes made by our group members!
-
----
 
 ## Exercise
 
-Please ensure that you are on the branch your group has created before continuing further!
 
-1. Now that you are on your branch, you are free to do whatever you like with the code! For the excercise, create a copy of the template folder and rename it to the name of your group. Run:
+1. For the excercise, create a copy of the template folder and rename it to the name of your group. Run:
 
 ```
 
-cp -r ./template/ ./<name of group>
+cp -r ./template/ ./<your name>
 
 ```
 
@@ -134,14 +118,14 @@ For this exercise, there are 4 files that require completion
 
 ```
 
-addition.py
-subtraction.py
-multiplication.py
-division.py
+test_addition.py
+test_subtraction.py
+test_multiplication.py
+test_division.py
 
 ```
 
-Lets start by correcting `addition.py`, modify the code so that it looks like this:
+Lets start by correcting `test_addition.py`, modify the code so that it looks like this:
 
 ```py
 def addition(a,b):
@@ -151,7 +135,7 @@ def addition(a,b):
 After saving your file, it is time to add this to the staging area by running:
 
 ```
-git add addition.py
+git add test_addition.py
 ```
 
 Once you are happy with your changes, it is time to commit! Don't forget to leave meaningful commit messages! Commit your change by running:
@@ -164,7 +148,7 @@ After commiting, we still need to push our changes to GitHub so they can be view
 Push your changes by running:
 
 ```
-git push origin <name of branch>
+git push
 ```
 
 Work with your team to complete the other TODOs. For the purpose of this activity, please only modify 1 file per commit. Remember to push your changes and pull in changes made by your team.

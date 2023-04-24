@@ -125,7 +125,7 @@ We will be running this command several times to 'pull' in changes made by our g
 
 ```
 
-cp -r ./template/ ./<name of group>
+cp -r ./template/ ./<your name>
 
 ```
 
@@ -163,7 +163,7 @@ After commiting, we still need to push our changes to GitHub so they can be view
 Push your changes by running:
 
 ```
-git push origin <name of branch>
+git push
 ```
 
 Work with your team to complete the other TODOs. For the purpose of this activity, please only modify 1 file per commit. Remember to push your changes and pull in changes made by your team.

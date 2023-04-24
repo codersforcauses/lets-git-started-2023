@@ -120,9 +120,8 @@ We will be running this command several times to 'pull' in changes made by our g
 
 ## Exercise
 
-Please ensure that you are on the branch your group has created before continuing further!
 
-1. Now that you are on your branch, you are free to do whatever you like with the code! For the excercise, create a copy of the template folder and rename it to the name of your group. Run:
+1. For the excercise, create a copy of the template folder and rename it to the name of your group. Run:
 
 ```
 

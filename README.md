@@ -102,21 +102,6 @@ pre-commit install
 
 ---
 
-## Checkpoint!
-
-Now that your group has created the branch, we need to update the repositories of other group members by running:
-
-```
-
-git pull
-
-```
-
-Once everyone in your group has updated their repository, please checkout to the branch created by your group
-
-We will be running this command several times to 'pull' in changes made by our group members!
-
----
 
 ## Exercise
 
